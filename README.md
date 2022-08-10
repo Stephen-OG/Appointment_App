@@ -1,4 +1,4 @@
-# wellnite_project REST API Gateway + microservices
+# REST API Gateway + microservices
 
 This project contains a REST API gateway with TCP back-end microservices all written using the NestJS Framework and TypeScript.
 
