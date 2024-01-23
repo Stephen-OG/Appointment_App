@@ -18,11 +18,11 @@ PostgreSQL is used as the database and TypeORM is used as the Object-Relational 
 
 ## How to Run
 
-1. System Requirements - must be Linux/Mac
+1. System Requirements - must be Linux/Mac/Windows
 - [Node.js](https://nodejs.org/en/) - v12 Recommended
 
 2. From the Terminal, go into each project's root folder (microservice) and execute `npm install`.
 
 3. Execute `npm start` for each microservice from the terminal 
 
-4. Once the start script is done, the API Gateway will listening on [http://localhost:3000]
+4. Once the start script is done, the API Gateway will start listening on [http://localhost:3000]
